@@ -2,7 +2,7 @@
   "miniprogramRoot": "dist/",
   "projectname": "goldMall",
   "description": "goldMall",
-  "appid": "wx94231ce9182e8499",
+  "appid": "wx4613d18f3badf3d1",
   "setting": {
     "urlCheck": true,
     "es6": false,
@@ -12,7 +12,8 @@
       "ignore": [],
       "disablePlugins": [],
       "outputPath": ""
-    }
+    },
+    "ignoreUploadUnusedFiles": true
   },
   "compileType": "miniprogram",
   "libVersion": "2.25.3",

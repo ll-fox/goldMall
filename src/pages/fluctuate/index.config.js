@@ -1,4 +1,6 @@
 export default {
-  navigationBarTitleText: "首页",
+  navigationBarTitleText: "定价",
+  navigationBarBackgroundColor: "#ffcc66",
+  navigationBarTextStyle: "black",
   usingComponents: { "ec-canvas": "../../ec-canvas/ec-canvas" },
 };

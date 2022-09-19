@@ -7,6 +7,8 @@ export default defineAppConfig({
     navigationBarTextStyle: "black",
   },
   tabBar: {
+    color: "#333", //tabBar 字体颜色
+    selectedColor: "#ffd480",
     list: [
       {
         text: "行情",

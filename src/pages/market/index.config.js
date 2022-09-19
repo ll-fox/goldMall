@@ -1,5 +1,6 @@
 export default definePageConfig({
   navigationBarTitleText: "市场行情",
-  navigationBarBackgroundColor: "#7FEDC0",
+  navigationBarBackgroundColor: "#ffcc66",
   navigationBarTextStyle: "black",
+  enablePullDownRefresh: true,
 });
